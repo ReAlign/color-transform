@@ -20,3 +20,4 @@
   * [ ] `hsv` -> `rgba`
   * [ ] `hsv` -> `hex`
   * [ ] `hsv` -> `hsla`
+* `cmyk`?
