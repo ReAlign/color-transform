@@ -4,6 +4,19 @@
 
 ## todo
 
-* [ ] `rgba` -> `hex`
-* [ ] `rgba` -> `hsla`
-* [ ] `rgba` -> `hsb`
+* `rgba`
+  * [ ] `rgba` -> `hex`
+  * [ ] `rgba` -> `hsla`
+  * [ ] `rgba` -> `hsv`
+* `hex`
+  * [ ] `hex` -> `rgba`
+  * [ ] `hex` -> `hsla`
+  * [ ] `hex` -> `hsv`
+* `hsla`
+  * [ ] `hsla` -> `rgba`
+  * [ ] `hsla` -> `hex`
+  * [ ] `hsla` -> `hsv`
+* `hsv`
+  * [ ] `hsv` -> `rgba`
+  * [ ] `hsv` -> `hex`
+  * [ ] `hsv` -> `hsla`
