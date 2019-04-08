@@ -1,2 +1,9 @@
 # color-transform
-a library, transform color between every format.
+
+> A library, transform color between every format.
+
+## todo
+
+* [ ] `rgba` -> `hex`
+* [ ] `rgba` -> `hsla`
+* [ ] `rgba` -> `hsb`
