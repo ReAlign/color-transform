@@ -1,0 +1,14 @@
+{
+  "name": "@realign-zone/color-transform",
+  "version": "0.0.1",
+  "devDependencies": {
+    "eslint": "^4.14.0",
+    "babel-eslint": "^8.1.2"
+  },
+  "author": "ReAlign",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ReAlign/color-transform/issues"
+  },
+  "homepage": "https://github.com/ReAlign/color-transform#readme"
+}
